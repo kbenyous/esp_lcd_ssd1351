@@ -1,0 +1,8 @@
+dependencies:
+  cmake_utilities:
+    version: 0.*
+  idf:
+    version: '>=5.0'
+description: ESP-IDF API for OLED SSD1351, and LVGL driver for OLED SSD1351
+url: https://github.com
+version: 0.1.0
